@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thomashoggard/advent-of-code-2020.git",
+  "author": "Thomas Hoggard <mail@thomashoggard.com>",
+  "license": "MIT"
+}
